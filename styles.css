@@ -5,9 +5,28 @@
     background-color:rgb(134, 220, 241);
     border-radius:25px;
     text-align: center;
-    padding-top:15px;
-    padding-bottom:15px;
+    padding-top:35px;
+    padding-bottom:35px;
 }
 .Header-content{
     color:rgba(177, 164, 164, 0.856);
+}
+.content{
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    row-gap: 100px;
+    height: 400px;
+    background-color:rgb(134, 220, 241);
+    border-radius:25px;
+}
+.content-left{
+    flex-wrap:wrap;
+    width:300px;
+    height:auto;
+    font-size:15px;
+}
+.content-right{
+    width:200px;
+    height:auto;
 }
