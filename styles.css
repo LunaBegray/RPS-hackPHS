@@ -1,12 +1,12 @@
 .wholePage{
-    padding:10px;
-    background-color:rgb(231, 191, 247);
+    background-color:rgb(238, 200, 253);
 }
 .Header{
+    display:flex;
     justify-content:center;
     align-items:flex-start;
-    background-color:lightblue;
+    background-color:rgb(134, 220, 241);
 }
 .Header-content{
-    color:rgba(119, 136, 153, 0.856);
+    color:rgba(0, 0, 0, 0.856);
 }
