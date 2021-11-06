@@ -5,7 +5,9 @@
     background-color:rgb(134, 220, 241);
     border-radius:25px;
     text-align: center;
+    padding-top:15px;
+    padding-bottom:15px;
 }
 .Header-content{
-    color:rgba(0, 0, 0, 0.856);
+    color:rgba(177, 164, 164, 0.856);
 }
