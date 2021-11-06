@@ -5,8 +5,8 @@
     background-color:rgb(134, 220, 241);
     border-radius:25px;
     text-align: center;
-    padding-top:35px;
-    padding-bottom:35px;
+    padding-top:20px;
+    padding-bottom:20px;
 }
 .Header-content{
     color:rgba(177, 164, 164, 0.856);
@@ -15,18 +15,23 @@
     display:flex;
     align-items:center;
     justify-content:center;
-    row-gap: 100px;
+    column-gap: 100px;
     height: 400px;
-    background-color:rgb(134, 220, 241);
+    background-color:rgb(74, 190, 219);
     border-radius:25px;
+    margin-top:70px;
 }
 .content-left{
     flex-wrap:wrap;
     width:300px;
     height:auto;
-    font-size:15px;
+    font-size:25px;
+    color:rgba(143, 135, 135, 0.856);
 }
 .content-right{
     width:200px;
     height:auto;
+}
+img{
+    border-radius:10px;
 }
