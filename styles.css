@@ -19,7 +19,7 @@
     height: 400px;
     background-color:rgb(74, 190, 219);
     border-radius:25px;
-    margin-top:70px;
+    margin-top:40px;
 }
 .content-left{
     flex-wrap:wrap;
@@ -34,4 +34,17 @@
 }
 img{
     border-radius:10px;
+}
+.selection{
+   background-color:rgb(38, 111, 160);
+   height: 100px;
+   display:flex;
+   justify-content:center;
+   align-items: center;
+   column-gap: 20px;
+   margin-top: 30px;
+}
+.selLink{
+    color:rgba(73, 66, 66, 0.856);
+    font-size: 20px;
 }
